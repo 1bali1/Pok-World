@@ -57,3 +57,5 @@ A tárold felhasználóknak joga van kérni az adataikhoz való hozzáférést, 
 A bot nem gyűjt vagy tárol bármilyen egyéb személyes információt, beleétve, de nem kizárólagosan a felhaszálók nevét, e-mail-címét vagy más azonosítoi adatokat.
 
 • A felhasználói azonosítók tárolási időtartama meghatározott, és az adatok csak a bot működéséhez elengethetetlen időszakig kerülnek megőrzésre. Az irányelv ulsó frissítése: 2024. 04. 26.
+
+PokéWorld © 2024 by Ispán Balázs is licensed under CC BY-NC-ND 4.0
